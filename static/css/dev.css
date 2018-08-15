@@ -1,0 +1,39 @@
+.b1-titulo p {
+    font-family: 'ubuntubold', sans-serif;
+    font-size: 32px;
+    color: #ffffff;
+    margin: 0;
+    line-height: 1;
+    font-weight: bold;
+}
+
+.b3-text p {
+    font-size: 15px;
+    color: #fff;
+    font-weight: normal;
+    margin: 0 0 10px;
+    line-height: 1;
+}
+
+.b3-text p strong {
+    color: #d4e17f;
+    font-weight: normal;
+    font-family: 'ubuntubold', sans-serif;
+}
+
+.b8-class {
+    width: 100%;
+    padding-top: 100px;
+    padding-bottom: 90px;
+    padding-left: 30px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding-right: 70px;
+    height: 522px;
+    position: relative;
+}
+
+.b4-titulo {
+    max-width: 530px;
+}
